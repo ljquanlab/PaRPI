@@ -3,7 +3,7 @@
 Any more questions, please do not hesitate to contact me: [20234227085@stu.suda.edu.cn](mailto:20234227085@stu.suda.edu.cn)
 
 ## NOTICE
-Due to the capacity limiation of Github, we put the relevant files (including the BERT model and all datasets) in [Zenodo](https://doi.org/10.5281/zenodo.14878562). All source code, data and model are open source and can be downloaded from GitHub.
+Due to the capacity limiation of Github, we put the relevant files (including the BERT model and all datasets) in [Zenodo](https://doi.org/10.5281/zenodo.14878561). All source code, data and model are open source and can be downloaded from GitHub.
 
 ## Requirements
 PaRPI mainly depends on the Python scientific stack.
