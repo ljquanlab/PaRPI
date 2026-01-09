@@ -24,6 +24,13 @@ conda env create -f environment.yml
 ```
 
 ## Quick start
+Before running the code, please create two empty directories required for data processing:
+
+```sh
+mkdir -p ./dataset/bat/
+mkdir -p ./dataset/test/
+```
+
 The BERT model and all to be trained datasets should first be download and put into the corresponding folder. Then, you can train a model with a certain cell line dataset using the following command:
 
 ```sh
